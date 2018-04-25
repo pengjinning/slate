@@ -2,12 +2,13 @@
 title: 吾协 - 云客服 API Reference
 
 language_tabs: # must be one of https://git.io/vQNgJ
-  - java
-  - objective-c
+  - ruby
+  - python
+  - shell
   - javascript
 
 toc_footers:
-  - <a href='http://www.wuxieyun.com' target='_blank'>吾协·云客服</a>
+  - <a href='https://www.wuxieyun.com' target='_blank'>吾协·云客服</a>
 
 includes:
   - errors
